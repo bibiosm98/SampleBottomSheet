@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleBottomSheet</string>
+    <string name="show_sheet">Show sheet</string>
+    <string name="show_dialog_bottom_sheet">Show dialog bottom sheet</string>
+    <string name="first_textview">First textView</string>
+    <string name="second_textview">Second textView</string>
+    <string name="third_textview">Third textView</string>
+</resources>
