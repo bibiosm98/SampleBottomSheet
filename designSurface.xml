@@ -18,14 +18,16 @@
         <entry key="..\:/Users/Norbert/AndroidStudioProjects/MarvelComicApp/app/src/main/res/drawable/round_10dp.xml" value="0.3807291666666667" />
         <entry key="..\:/Users/Norbert/AndroidStudioProjects/MarvelComicApp/app/src/main/res/layout/activity_main.xml" value="0.2265625" />
         <entry key="..\:/Users/Norbert/AndroidStudioProjects/MarvelComicApp/app/src/main/res/layout/comic_item.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/Norbert/AndroidStudioProjects/MarvelComicApp/app/src/main/res/layout/detail_fragment.xml" value="0.26145833333333335" />
         <entry key="..\:/Users/Norbert/AndroidStudioProjects/MarvelComicApp/app/src/main/res/layout/fragment_home.xml" value="0.2" />
         <entry key="..\:/Users/Norbert/AndroidStudioProjects/MarvelComicApp/app/src/main/res/layout/fragment_search.xml" value="0.264" />
         <entry key="..\:/Users/Norbert/AndroidStudioProjects/MarvelComicApp/app/src/main/res/layout/grid_view_item.xml" value="0.22418478260869565" />
         <entry key="..\:/Users/Norbert/AndroidStudioProjects/MarvelComicApp/app/src/main/res/menu/actionbar_menu.xml" value="0.365625" />
         <entry key="..\:/Users/Norbert/AndroidStudioProjects/MarvelComicApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.365625" />
         <entry key="..\:/Users/Norbert/AndroidStudioProjects/MarvelComicApp/app/src/main/res/menu/search_menu.xml" value="0.26145833333333335" />
-        <entry key="..\:/Users/Norbert/AndroidStudioProjects/RetrofitGlideRV/app/src/main/res/layout/grid_view_fragment.xml" value="0.1" />
-        <entry key="..\:/Users/Norbert/AndroidStudioProjects/RetrofitGlideRV/app/src/main/res/layout/grid_view_item.xml" value="0.1" />
+        <entry key="..\:/Users/Norbert/AndroidStudioProjects/RetrofitGlideRV/app/src/main/res/layout/detail_fragment.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/Norbert/AndroidStudioProjects/RetrofitGlideRV/app/src/main/res/layout/grid_view_fragment.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/Norbert/AndroidStudioProjects/RetrofitGlideRV/app/src/main/res/layout/grid_view_item.xml" value="0.1118659420289855" />
         <entry key="..\:/Users/Norbert/AndroidStudioProjects/RetrofitGlideRV/app/src/main/res/layout/list_view_fragment.xml" value="0.1" />
         <entry key="..\:/Users/Norbert/AndroidStudioProjects/RetrofitGlideRV/app/src/main/res/layout/list_view_item.xml" value="0.1" />
         <entry key="..\:/Users/Norbert/AndroidStudioProjects/RetrofitGlideRV/app/src/main/res/layout/main_activity.xml" value="0.1" />
