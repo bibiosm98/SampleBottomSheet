@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SmartHome" />
+    <option name="mostRecentlyUsed" value="counter" />
     <option name="nonFavorites">
       <list>
-        <option value="SmartHome" />
         <option value="counter" />
+        <option value="Incrementing" />
+        <option value="SmartHome" />
         <option value="MyTag" />
         <option value="myta" />
       </list>
