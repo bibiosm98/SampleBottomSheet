@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MyTag" />
+    <option name="mostRecentlyUsed" value="counter" />
     <option name="nonFavorites">
       <list>
+        <option value="counter" />
         <option value="MyTag" />
         <option value="myta" />
       </list>
