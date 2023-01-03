@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SmartHome" />
+    <option name="mostRecentlyUsed" value=" com.example.pogodaczycos" />
     <option name="nonFavorites">
       <list>
+        <option value=" com.example.pogodaczycos" />
+        <option value="MyT" />
+        <option value="saved" />
+        <option value="storedTe" />
+        <option value="MyTag" />
         <option value="SmartHome" />
         <option value="counter to va" />
         <option value="counter t" />
@@ -11,7 +16,6 @@
         <option value="smarthome" />
         <option value="counter" />
         <option value="Incrementing" />
-        <option value="MyTag" />
         <option value="myta" />
       </list>
     </option>
