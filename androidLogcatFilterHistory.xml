@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.example.pogodaczycos" />
+    <option name="mostRecentlyUsed" value="Mytag" />
     <option name="nonFavorites">
       <list>
+        <option value="Mytag" />
+        <option value="MytagC" />
+        <option value="Mytagc" />
         <option value="com.example.pogodaczycos" />
         <option value="save" />
         <option value=" com.example.pogodaczycos" />
