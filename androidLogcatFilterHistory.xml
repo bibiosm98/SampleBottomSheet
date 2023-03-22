@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="MyTag" />
+        <option value="Incr" />
         <option value="com.example.pogodaczycos" />
         <option value="Mytag" />
         <option value="MytagC" />
